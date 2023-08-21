@@ -1,0 +1,17 @@
+def greeting():
+    print("              *              ")
+    print(" *            *            * ")
+    print(" *            *            * ")
+    print(" *            *            * ")
+    print("***          ***          ***")
+    print("****        *****        ****")
+    print("*****************************")
+    print("*****************************")
+    print("*****************************")
+    print("_____________________________")
+    print("              *              ")
+    print("              *              ")
+    print("Welecome to SoHo Restaurants!")
+    print("              *              ")
+    print("              *              ")
+
